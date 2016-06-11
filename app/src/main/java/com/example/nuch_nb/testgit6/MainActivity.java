@@ -9,7 +9,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        int pnuchData ="60";
+        String pnuchData ="60";
+       // อ้าว เขียน code อยู่ดี ๆ ได้ error มาซะงั้น แก้ให้ถูกละกัน
         int kengData=35;
         //แล้วผมก็ add data ของผม และ commit  แต่ยังไม่ push นะ
 
