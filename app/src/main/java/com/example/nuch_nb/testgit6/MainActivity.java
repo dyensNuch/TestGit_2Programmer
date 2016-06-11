@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
         int mykengdata =8;
         //ผมก็ up งานของผมบ้าง
         //แน่นอน โดน push reject เพราะ ว่า coding ไม่ update ก็เข้าขั้นตอนเดิมคับ pull
+        int newbranch =9999;
     }
 
     public void pnuchMethod() {
