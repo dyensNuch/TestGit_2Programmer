@@ -10,6 +10,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         int pnuchData =60;
+        int kengData=35;
+        //แล้วผมก็ add data ของผม และ commit  แต่ยังไม่ push นะ
+
 
     }
 }
