@@ -11,6 +11,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         int pnuchData =60;
         int mydata2=77;
+        //พี่นุช ก็ทำการแก้ไข commit แต่ จะ pushขึ้นทันที
+        //push ผ่าน ปกติ
+        int mydata3=89;
 
     }
 }
