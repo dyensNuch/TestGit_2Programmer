@@ -30,5 +30,6 @@ public class MainActivity extends AppCompatActivity {
 
     public void pnuchMethod() {
         int mymethoddata = 1;
+        int newbranch =88;
     }
 }
