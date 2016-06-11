@@ -27,4 +27,7 @@ public class MainActivity extends AppCompatActivity {
         //ผมก็ up งานของผมบ้าง
         //แน่นอน โดน push reject เพราะ ว่า coding ไม่ update ก็เข้าขั้นตอนเดิมคับ pull
     }
+public void pnuchMethod()
+{
+    int mymethoddata =1;
 }
