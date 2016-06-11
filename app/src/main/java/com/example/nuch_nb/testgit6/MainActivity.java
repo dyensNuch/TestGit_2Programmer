@@ -21,4 +21,9 @@ public class MainActivity extends AppCompatActivity {
 
         String mydata4="88898";
     }
+public void pnuchMethod()
+{
+    int mymethoddata =1;
 }
+}
+
