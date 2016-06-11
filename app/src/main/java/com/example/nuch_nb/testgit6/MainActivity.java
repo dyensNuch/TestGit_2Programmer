@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
 
         int mydata2=77;
 
+        String mydata4="88898";
     }
 }
