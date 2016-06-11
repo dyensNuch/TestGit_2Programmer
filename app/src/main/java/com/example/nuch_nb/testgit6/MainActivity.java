@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
         int kengData=35;
         //แล้วผมก็ add data ของผม และ commit  แต่ยังไม่ push นะ
 
+        int mydata2=77;
 
     }
 }
