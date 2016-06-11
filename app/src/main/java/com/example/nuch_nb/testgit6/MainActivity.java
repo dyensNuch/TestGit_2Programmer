@@ -19,5 +19,6 @@ public class MainActivity extends AppCompatActivity {
         //push ผ่าน ปกติ
         int mydata3=89;
 
+        String mydata4="88898";
     }
 }
