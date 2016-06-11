@@ -24,5 +24,7 @@ public class MainActivity extends AppCompatActivity {
     public void kengMethod()
     {
         int mykengdata =8;
+        //ผมก็ up งานของผมบ้าง
+        //แน่นอน โดน push reject เพราะ ว่า coding ไม่ update ก็เข้าขั้นตอนเดิมคับ pull
     }
 }
