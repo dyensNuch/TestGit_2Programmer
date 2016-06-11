@@ -32,4 +32,7 @@ public void pnuchMethod()
     int mymethoddata =1;
     //พี่นุช commit และ push
     int mykeng =2;
+    int xdata=8;
+    int ydata=9;
+    int zdata=10;
 }
