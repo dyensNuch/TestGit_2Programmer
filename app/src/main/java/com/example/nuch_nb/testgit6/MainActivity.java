@@ -21,4 +21,8 @@ public class MainActivity extends AppCompatActivity {
 
         String mydata4="88898";
     }
+    public void kengMethod()
+    {
+        int mykengdata =8;
+    }
 }
