@@ -24,6 +24,8 @@ public class MainActivity extends AppCompatActivity {
 public void pnuchMethod()
 {
     int mymethoddata =1;
+    //พี่นุช commit และ push
+    int mykeng =2;
 }
 }
 
